@@ -1,0 +1,2 @@
+# ksin
+working with stcripts
