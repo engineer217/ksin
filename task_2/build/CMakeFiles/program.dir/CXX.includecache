@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/percent.hpp
+
+/media/basil/Buffer/ksin/task_2/src/main.cpp
+iostream
+-
+percent.hpp
+/media/basil/Buffer/ksin/task_2/src/percent.hpp
+
